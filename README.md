@@ -18,7 +18,11 @@
 - 😄 Favourite book: The Silmarillion - John Ronald Reuel Tolkien
 - ⚡ Fun fact: I used to be a Plant Based baker
 
-<!---
-Ofendor/Ofendor is a ✨ special  repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Gif of the day!
+[Source](https://www.linkedin.com/company/cyberedition/posts/?feedView=all)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQHb1FuGhXZxtQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1727444344096?e=1732752000&v=beta&t=kA9YC25Ati1wZd-CDIA-TdbnwZXmrFKoCItQuRcuWNE" alt="LinkedIn Image" width="600" />
+</p>
+
+
+
