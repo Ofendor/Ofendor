@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Ofendor
+**👋 Hi, I’m @Ofendor** 😄😄
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/3ovqIbBiVFsAAAAd/when-computer-dies-when-almost-finish-angry-cat.gif" alt="Angry Cat GIF" width="200" />
+</p>
+
+
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any AI project linked to Cyber Security
