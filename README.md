@@ -1,9 +1,8 @@
 **👋 Hi, I’m @Ofendor** 😄😄
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/3ovqIbBiVFsAAAAd/when-computer-dies-when-almost-finish-angry-cat.gif" alt="Angry Cat GIF" width="200" />
+  <img src="https://media1.tenor.com/m/YZxaeM5NzEUAAAAd/digimon-diablomon.gif" alt="Angry Cat GIF" width="400" />
 </p>
-
 
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python
