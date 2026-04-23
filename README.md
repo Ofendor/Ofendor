@@ -100,7 +100,3 @@ Active credentials visible on my [Credly profile](https://www.credly.com/users/e
 ### 🌟 Featured Project
 
 **[Cybersecurity Portfolio](https://github.com/Ofendor/Cybersecurity.Portfolio)** — hands-on labs covering network analysis, malware analysis, and SOC operations.
-
-### 🌟 Featured Project
-
-**[Cybersecurity Portfolio](https://github.com/Ofendor/Cybersecurity.Portfolio)** — hands-on labs covering network analysis, malware analysis, and SOC operations.
