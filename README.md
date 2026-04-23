@@ -20,12 +20,30 @@
 
 ### 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Operating Systems**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server_2019-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**Networking & Security**
+
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-003366?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-E73E2C?style=for-the-badge&logo=snort&logoColor=white)
+![hping3](https://img.shields.io/badge/hping3-8B0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Services & Infrastructure**
+
+![Apache](https://img.shields.io/badge/Apache2-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![rsyslog](https://img.shields.io/badge/rsyslog-FCC624?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+**Scripting & Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,8 +53,8 @@
 ### 🏆 Certifications & Badges
 
 <p align="left">
-  <a href="https://www.credly.com/users/emilio-mardones" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Google Cybersecurity Certificate" width="100"/>
+  <a href="https://www.credly.com/badges/1a6326af-4d92-4fb9-b529-281d5ede4ed4/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" width="100"/>
   </a>
 </p>
 
@@ -69,6 +87,10 @@ Active credentials visible on my [Credly profile](https://www.credly.com/users/e
 </p>
 
 ---
+
+### 🌟 Featured Project
+
+**[Cybersecurity Portfolio](https://github.com/Ofendor/Cybersecurity.Portfolio)** — hands-on labs covering network analysis, malware analysis, and SOC operations.
 
 ### 🌟 Featured Project
 
