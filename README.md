@@ -1,7 +1,9 @@
-**👋 Hi, I’m @Ofendor** 😄😄
+# 👋 Hi, I'm Emilio (Ofendor)
+
+### Graduate Network Engineer & Cloud Practitioner | Self-directed Cybersecurity & Malware Analysis
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/YZxaeM5NzEUAAAAd/digimon-diablomon.gif" alt="Angry Cat GIF" width="400" />
+  <img src="https://media1.tenor.com/m/YZxaeM5NzEUAAAAd/digimon-diablomon.gif" alt="Digimon Diablomon" width="400" />
 </p>
 
 - 👀 I’m interested in Cyber Security and Network engineering
