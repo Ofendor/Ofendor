@@ -65,6 +65,9 @@
   <a href="https://www.credly.com/users/emilio-mardones" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="100"/>
   </a>
+  <a href="https://www.credly.com/badges/1a6326af-4d92-4fb9-b529-281d5ede4ed4/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" width="100"/>
+  </a>
 </p>
 
 Active credentials visible on my [Credly profile](https://www.credly.com/users/emilio-mardones).
