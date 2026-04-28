@@ -56,11 +56,18 @@
   <a href="https://www.credly.com/badges/1a6326af-4d92-4fb9-b529-281d5ede4ed4/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" width="100"/>
   </a>
+  <a href="https://www.credly.com/earner/earned/badge/0c456ec8-d5d4-4d4e-b176-5a0aa8e453a6" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" alt="Cisco Networking Basics" width="100"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/2e0408b8-42a3-4d1d-9bdc-37a01bd69ce0" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="AWS Educate Introduction to Cloud 101" width="100"/>
+  </a>
+  <a href="https://www.credly.com/users/emilio-mardones" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="100"/>
+  </a>
 </p>
 
 Active credentials visible on my [Credly profile](https://www.credly.com/users/emilio-mardones).
-
-**Currently Pursuing:** CompTIA CySA+ • Cisco CCST • EC-Council Network Defense Fundamentals
 
 ---
 
