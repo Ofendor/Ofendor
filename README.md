@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emilio (Ofendor)
+# 👋 Hi, I'm Emilio
 
 ### Graduate Network Engineer & Cloud Practitioner | Self-directed Cybersecurity & Malware Analysis
 
